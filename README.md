@@ -1,7 +1,5 @@
 ## Java核心包、类代码练习示例[持续更新]
 
-----
-
 ### 一、java.lang包
 - annotation
 - reflect
